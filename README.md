@@ -2,9 +2,8 @@
 A command line tool to interact with an EWMH/NetWM compatible X Window Manager
 
 
+Repository forked from the original at http://tripie.sweb.cz/utils/wmctrl/
 
-wmctrl
-A command line tool to interact with an EWMH/NetWM compatible X Window Manager.
 
 To compile and install the program, run the following commands:
 
